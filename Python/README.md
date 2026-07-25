@@ -2,19 +2,19 @@
 
 A structured log tracking my progression, code syntax mastery, and automation scripts for the D522 Python for IT Automation course.
 
-## 🛠️ Workspace & Environment
+## Workspace & Environment
 * **OS Distribution:** Linux COSMIC Distro (Pop!_OS)
 * **Local IDE:** Visual Studio Code (VS Code) + Official Python Extension
 * **Execution Layout:** Command-Line Interface (CLI) & Python REPL Scratchpad
 
-## 📈 Accountability & Metrics
+## Accountability & Metrics
 * **Core Syllabus:** ZyBooks (Course Planning Tool Complete)
 * **Daily Supplementary Target:** Coddy Python Fundamentals Journey
 * **XP Milestone:** 195 XP / day (Monday–Friday)
 
 ---
 
-## 🗄️ Progress & Competency Log
+## Progress & Competency Log
 
 ### 🔹 Week 1: Foundational Syntax, Blocks, and Data Shapes
 * **Competency 4124.1.1 (Applies Python Principles and Syntax):**
