@@ -4,4 +4,4 @@ type(conn)
 conn
 conn.ehlo()
 conn.starttls()
-conn.login('drouxvg@gmail.com', 'W3tStones2013')
+conn.login('drouxvg@gmail.com', '********')
