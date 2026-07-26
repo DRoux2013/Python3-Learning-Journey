@@ -1,0 +1,8 @@
+2026-07-25 12:30:27,047 - INFO - switch1 processed successfully
+2026-07-25 12:30:27,047 - INFO - firewall1 processed successfully
+2026-07-25 12:30:27,047 - INFO - router1 processed successfully
+2026-07-25 12:30:27,047 - ERROR - bad_device failed to process
+2026-07-25 12:56:33,151 - INFO - switch1 processed successfully
+2026-07-25 12:56:33,151 - INFO - firewall1 processed successfully
+2026-07-25 12:56:33,151 - INFO - router1 processed successfully
+2026-07-25 12:56:33,151 - ERROR - bad_device failed to process

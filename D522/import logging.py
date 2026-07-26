@@ -25,5 +25,5 @@ email_message.set_content(f"Processing completed. Successes: {successes}, Failur
 email_message["Subject"] = "Device Processing Report"
 email_message["From"] = "dlaroux@wgu.edu"
 email_message["To"] = "recipient@wgu.edu"
-with smtplib.SMTP("smtp.wgu.edu") as server:
+with smtplib.SMTP("smtp.d522.wgu.internal", 1025) as server:
     server.send_message(email_message)
