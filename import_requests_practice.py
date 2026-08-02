@@ -9,7 +9,6 @@ if BEARER_TOKEN is None:
 else:
     headers = {"Authorization": f"Bearer {BEARER_TOKEN}"}
     response = requests.get(API_URL, headers=headers)
-
     if response.status_code == 200:
         try:
             data = response.json()
