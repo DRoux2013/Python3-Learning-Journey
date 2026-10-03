@@ -1,4 +1,0 @@
-switch1
-firewall1
-router1
-bad_device
